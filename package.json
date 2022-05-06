@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build --base=/yapi-json-to-ts-typing/",
     "preview": "vite preview"
   },
   "dependencies": {
